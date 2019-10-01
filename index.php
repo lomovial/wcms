@@ -12,6 +12,7 @@
     <?php
     echo "<h1> Pagina de Inicio</h1>";
     echo "Hola mundo";
+    echo "Todo funciono d eputa madre";
 
     ?>
 </body>
