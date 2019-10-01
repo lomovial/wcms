@@ -13,8 +13,9 @@
     echo "<h1> Pagina de Inicio</h1>";
     echo "Hola mundo";
     echo "Todo funciono d eputa madre";
-    echo "Continuo con los commit"
-    echo  "Realizo mmit desde otro isuario y otro ordenador pruebas"
+    echo "Continuo con los commit";
+    echo  "Realizo mmit desde otro isuario y otro ordenador pruebas 1";
+    echo  "Realizo mmit desde otro isuario y otro ordenador pruebas 2";
 
     ?>
 </body>
