@@ -17,6 +17,8 @@
     echo  "Realizo mmit desde otro isuario y otro ordenador pruebas 1";
     echo  "Realizo mmit desde otro isuario y otro ordenador pruebas 2";
     echo  "Realizo mmit desde otro isuario y otro ordenador pruebas 3";
+    echo  "Realizo mmit desde otro isuario y otro ordenador pruebas 4";
+    echo  "Probando con el fork";
 
     ?>
 </body>
