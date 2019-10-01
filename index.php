@@ -10,7 +10,9 @@
 
 <body>
     <?php
+    echo "<h1> Pagina de Inicio</h1>";
     echo "Hola mundo";
+
     ?>
 </body>
 
